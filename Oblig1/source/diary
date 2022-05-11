@@ -1,0 +1,128 @@
+################task4
+
+Result1 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    Three_dB: 0.1445
+      Six_dB: 0.2011
+       maxSL: -13.2123
+     MLwidth: 0.3330
+
+
+Result2 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    Three_dB: 0.0691
+      Six_dB: 0.0942
+       maxSL: -13.2108
+     MLwidth: 0.1696
+
+
+Result3 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    Three_dB: 0.0314
+      Six_dB: 0.0440
+       maxSL: 0
+     MLwidth: 0.0817
+
+
+Result4 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    Three_dB: 0.0126
+      Six_dB: 0.0188
+       maxSL: 0
+     MLwidth: 0.0440
+
+task5
+task6
+
+ana = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    Three_dB: 0.0817
+      Six_dB: 0.1131
+       maxSL: -24.1110
+     MLwidth: 0.2199
+
+task7
+task8
+task9
+
+ML_width_mean =
+
+    0.0398
+
+
+ML_width_sd =
+
+    0.0100
+
+
+SL_mean =
+
+   -7.6462
+
+
+SL_max =
+
+   -4.4948
+
+
+ana = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    Three_dB: 0.0188
+      Six_dB: 0.0251
+       maxSL: -12.0864
+     MLwidth: 0.1005
+
+
+ML_width_mean =
+
+    0.0391
+
+
+ML_width_sd =
+
+    0.0042
+
+
+SL_mean =
+
+  -11.4958
+
+
+SL_max =
+
+   -7.8257
+
+
+ML_width_mean =
+
+    0.0392
+
+
+ML_width_sd =
+
+    0.0027
+
+
+SL_mean =
+
+  -13.0244
+
+
+SL_max =
+
+   -9.9378
+
+task12
+task13
